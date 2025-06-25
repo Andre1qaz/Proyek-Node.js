@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Andre1qaz/Proyek-Node.js/issues"
   },
-  "homepage": "https://github.com/Andre1qaz/Proyek-Node.js#readme"
+  "homepage": "https://github.com/Andre1qaz/Proyek-Node.js#readme",
+  "dependencies": {
+    "iodash": "^0.0.1-security"
+  }
 }
